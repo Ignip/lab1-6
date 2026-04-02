@@ -1,0 +1,60 @@
+{
+  "WordsByCategory": {
+    "Животные": [
+      {
+        "ForeignWord": "dog",
+        "Translation": "собака"
+      },
+      {
+        "ForeignWord": "cat",
+        "Translation": "кошка"
+      },
+      {
+        "ForeignWord": "bird",
+        "Translation": "птица"
+      },
+      {
+        "ForeignWord": "fish",
+        "Translation": "рыба"
+      }
+    ],
+    "Фрукты": [
+      {
+        "ForeignWord": "apple",
+        "Translation": "яблоко"
+      },
+      {
+        "ForeignWord": "banana",
+        "Translation": "банан"
+      },
+      {
+        "ForeignWord": "orange",
+        "Translation": "апельсин"
+      },
+      {
+        "ForeignWord": "grape",
+        "Translation": "виноград"
+      }
+    ],
+    "Глаголы": [
+      {
+        "ForeignWord": "run",
+        "Translation": "бежать"
+      },
+      {
+        "ForeignWord": "eat",
+        "Translation": "есть"
+      },
+      {
+        "ForeignWord": "sleep",
+        "Translation": "спать"
+      },
+      {
+        "ForeignWord": "read",
+        "Translation": "читать"
+      }
+    ]
+  },
+  "CorrectAnswers": 0,
+  "WrongAnswers": 0
+}

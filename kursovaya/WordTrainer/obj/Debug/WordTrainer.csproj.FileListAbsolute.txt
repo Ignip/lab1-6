@@ -1,0 +1,99 @@
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\obj\Debug\WordTrainer.csproj.AssemblyReference.cache
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\obj\Debug\MainWindow.baml
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\obj\Debug\MainWindow.g.cs
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\obj\Debug\App.g.cs
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\obj\Debug\WordTrainer_MarkupCompile.cache
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\obj\Debug\WordTrainer.g.resources
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\obj\Debug\WordTrainer.Properties.Resources.resources
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\obj\Debug\WordTrainer.csproj.GenerateResource.cache
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\obj\Debug\WordTrainer.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\bin\Debug\WordTrainer.exe.config
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\bin\Debug\WordTrainer.exe
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\bin\Debug\WordTrainer.pdb
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\bin\Debug\System.Buffers.dll
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\bin\Debug\System.Memory.dll
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\bin\Debug\System.Text.Json.dll
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\bin\Debug\System.Buffers.xml
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\bin\Debug\System.Memory.xml
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\bin\Debug\System.Text.Json.xml
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\obj\Debug\WordTrainer.csproj.CopyComplete
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\obj\Debug\WordTrainer.exe
+C:\Users\Татьяна\source\repos\WordTrainer\WordTrainer\obj\Debug\WordTrainer.pdb
+H:\lab c#\WordTrainer\WordTrainer\bin\Debug\WordTrainer.exe.config
+H:\lab c#\WordTrainer\WordTrainer\bin\Debug\WordTrainer.exe
+H:\lab c#\WordTrainer\WordTrainer\bin\Debug\WordTrainer.pdb
+H:\lab c#\WordTrainer\WordTrainer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\lab c#\WordTrainer\WordTrainer\bin\Debug\System.Buffers.dll
+H:\lab c#\WordTrainer\WordTrainer\bin\Debug\System.IO.Pipelines.dll
+H:\lab c#\WordTrainer\WordTrainer\bin\Debug\System.Memory.dll
+H:\lab c#\WordTrainer\WordTrainer\bin\Debug\System.Numerics.Vectors.dll
+H:\lab c#\WordTrainer\WordTrainer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\lab c#\WordTrainer\WordTrainer\bin\Debug\System.Text.Encodings.Web.dll
+H:\lab c#\WordTrainer\WordTrainer\bin\Debug\System.Text.Json.dll
+H:\lab c#\WordTrainer\WordTrainer\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\lab c#\WordTrainer\WordTrainer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\lab c#\WordTrainer\WordTrainer\bin\Debug\System.Buffers.xml
+H:\lab c#\WordTrainer\WordTrainer\bin\Debug\System.IO.Pipelines.xml
+H:\lab c#\WordTrainer\WordTrainer\bin\Debug\System.Memory.xml
+H:\lab c#\WordTrainer\WordTrainer\bin\Debug\System.Numerics.Vectors.xml
+H:\lab c#\WordTrainer\WordTrainer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\lab c#\WordTrainer\WordTrainer\bin\Debug\System.Text.Encodings.Web.xml
+H:\lab c#\WordTrainer\WordTrainer\bin\Debug\System.Text.Json.xml
+H:\lab c#\WordTrainer\WordTrainer\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\lab c#\WordTrainer\WordTrainer\obj\Debug\WordTrainer.csproj.AssemblyReference.cache
+H:\lab c#\WordTrainer\WordTrainer\obj\Debug\MainWindow.baml
+H:\lab c#\WordTrainer\WordTrainer\obj\Debug\MainWindow.g.cs
+H:\lab c#\WordTrainer\WordTrainer\obj\Debug\App.g.cs
+H:\lab c#\WordTrainer\WordTrainer\obj\Debug\WordTrainer_MarkupCompile.cache
+H:\lab c#\WordTrainer\WordTrainer\obj\Debug\WordTrainer.g.resources
+H:\lab c#\WordTrainer\WordTrainer\obj\Debug\WordTrainer.Properties.Resources.resources
+H:\lab c#\WordTrainer\WordTrainer\obj\Debug\WordTrainer.csproj.GenerateResource.cache
+H:\lab c#\WordTrainer\WordTrainer\obj\Debug\WordTrainer.csproj.CoreCompileInputs.cache
+H:\lab c#\WordTrainer\WordTrainer\obj\Debug\WordTrai.A86BBEA8.Up2Date
+H:\lab c#\WordTrainer\WordTrainer\obj\Debug\WordTrainer.exe
+H:\lab c#\WordTrainer\WordTrainer\obj\Debug\WordTrainer.pdb
+H:\lab c#\kursovaya\WordTrainer\bin\Debug\WordTrainer.exe.config
+H:\lab c#\kursovaya\WordTrainer\bin\Debug\WordTrainer.exe
+H:\lab c#\kursovaya\WordTrainer\bin\Debug\WordTrainer.pdb
+H:\lab c#\kursovaya\WordTrainer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\lab c#\kursovaya\WordTrainer\bin\Debug\System.Buffers.dll
+H:\lab c#\kursovaya\WordTrainer\bin\Debug\System.IO.Pipelines.dll
+H:\lab c#\kursovaya\WordTrainer\bin\Debug\System.Memory.dll
+H:\lab c#\kursovaya\WordTrainer\bin\Debug\System.Numerics.Vectors.dll
+H:\lab c#\kursovaya\WordTrainer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\lab c#\kursovaya\WordTrainer\bin\Debug\System.Text.Encodings.Web.dll
+H:\lab c#\kursovaya\WordTrainer\bin\Debug\System.Text.Json.dll
+H:\lab c#\kursovaya\WordTrainer\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\lab c#\kursovaya\WordTrainer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\lab c#\kursovaya\WordTrainer\bin\Debug\System.Buffers.xml
+H:\lab c#\kursovaya\WordTrainer\bin\Debug\System.IO.Pipelines.xml
+H:\lab c#\kursovaya\WordTrainer\bin\Debug\System.Memory.xml
+H:\lab c#\kursovaya\WordTrainer\bin\Debug\System.Numerics.Vectors.xml
+H:\lab c#\kursovaya\WordTrainer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\lab c#\kursovaya\WordTrainer\bin\Debug\System.Text.Encodings.Web.xml
+H:\lab c#\kursovaya\WordTrainer\bin\Debug\System.Text.Json.xml
+H:\lab c#\kursovaya\WordTrainer\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\lab c#\kursovaya\WordTrainer\obj\Debug\WordTrainer.csproj.AssemblyReference.cache
+H:\lab c#\kursovaya\WordTrainer\obj\Debug\MainWindow.baml
+H:\lab c#\kursovaya\WordTrainer\obj\Debug\MainWindow.g.cs
+H:\lab c#\kursovaya\WordTrainer\obj\Debug\App.g.cs
+H:\lab c#\kursovaya\WordTrainer\obj\Debug\WordTrainer_MarkupCompile.cache
+H:\lab c#\kursovaya\WordTrainer\obj\Debug\WordTrainer.g.resources
+H:\lab c#\kursovaya\WordTrainer\obj\Debug\WordTrainer.Properties.Resources.resources
+H:\lab c#\kursovaya\WordTrainer\obj\Debug\WordTrainer.csproj.GenerateResource.cache
+H:\lab c#\kursovaya\WordTrainer\obj\Debug\WordTrainer.csproj.CoreCompileInputs.cache
+H:\lab c#\kursovaya\WordTrainer\obj\Debug\WordTrai.A86BBEA8.Up2Date
+H:\lab c#\kursovaya\WordTrainer\obj\Debug\WordTrainer.exe
+H:\lab c#\kursovaya\WordTrainer\obj\Debug\WordTrainer.pdb
